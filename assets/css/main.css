@@ -1,0 +1,46 @@
+body {
+    background: #0d1b2a;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background: #1a1a3d;
+    padding: 20px;
+}
+.navbar h1 {
+    margin: 0;
+    color: #00ffff;
+}
+.navbar ul {
+    list-style: none;
+    padding: 0;
+}
+.navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+.navbar ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.hero {
+    text-align: center;
+    padding: 50px 0;
+}
+.btn {
+    background: #00ffff;
+    box-shadow: 0 0 20px #00ffff;
+    border: none;
+    padding: 10px 20px;
+    color: #0d1b2a;
+    cursor: pointer;
+}
+.section {
+    padding: 50px 0;
+    text-align: center;
+}
+footer {
+    background: #1a1a3d;
+    padding: 20px;
+    text-align: center;
+}
