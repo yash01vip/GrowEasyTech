@@ -44,3 +44,14 @@ footer {
     padding: 20px;
     text-align: center;
 }
+body {
+    background: #0d1b2a;
+    color: #ffffff;
+}
+.btn {
+    background: #00ffff;
+    box-shadow: 0 0 20px #00ffff;
+}
+.section {
+    padding: 50px 0;
+}

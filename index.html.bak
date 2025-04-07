@@ -59,25 +59,3 @@
     <script src="assets/js/main.js"></script>
 </body>
 </html>
-<section id="mining" class="section">
-    <div class="container">
-        <h2>Mining Zone</h2>
-        <p>Start mining GEC with blockchain tech!</p>
-        <button onclick="alert('Mining Started!')" class="btn">Start Mining</button>
-        <img src="assets/images/custom/coin.jpg" alt="Mining Coin" width="200">
-    </div>
-</section>
-<section id="games" class="section">
-    <div class="container">
-        <h2>Gaming Arena</h2>
-        <p>Play & earn GEC coins!</p>
-        <img src="assets/images/custom/neon.jpg" alt="Gaming Neon" width="200">
-    </div>
-</section>
-<section id="metaverse" class="section">
-    <div class="container">
-        <h2>Metaverse Portal</h2>
-        <p>Explore the GrowEasy virtual world!</p>
-        <img src="assets/images/custom/meta.jpg" alt="Metaverse" width="200">
-    </div>
-</section>
